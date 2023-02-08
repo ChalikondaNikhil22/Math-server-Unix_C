@@ -1,0 +1,4 @@
+#make file - this is a comment section
+all:
+	gcc src/server.c -o object/server
+	gcc src/client.c -o object/client
